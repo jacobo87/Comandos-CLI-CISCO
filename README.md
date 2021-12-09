@@ -189,3 +189,6 @@ C       192.168.3.0/24 is directly connected, GigabitEthernet0/1
 L       192.168.3.1/32 is directly connected, GigabitEthernet0/1
 R2(config)#
 ```
+
+
+> [Jacobo Azmani](https://jacoboazmani.org) 
