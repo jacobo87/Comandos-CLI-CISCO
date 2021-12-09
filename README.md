@@ -1,4 +1,12 @@
+[![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![GitHub watchers](https://badgen.net/github/watchers/jacobo87/Comandos-CLI-CISCO/)](https://GitHub.com/jacobo87/Comandos-CLI-CISCO/watchers/)
+
+
+
 # Configurar Switch y router Cisco
+> Comandos básicos para configurar un ROUTER CISCO mendiante CLI 
+
 ### Cambiar nombre
 ```
 Switch>enable
